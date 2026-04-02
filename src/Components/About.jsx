@@ -1,5 +1,5 @@
 import React from "react";
-import brandImage from "./../assets/House3.jpg";
+import brandImage from "../assets/house3.jpg"; // adjust path
 
 const About = () => {
   return (
