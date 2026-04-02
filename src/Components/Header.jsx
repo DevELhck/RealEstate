@@ -1,12 +1,12 @@
 import React from 'react'
 import Navbar from './Navbar'
-import houseImg from '../assets/house4.jpg'
+import house4 from '../assets/house4.jpg'
 
 const Header = () => {
   return (
     <div
       className="relative min-h-screen flex items-center justify-center w-full overflow-hidden"
-      style={{ backgroundImage: `url(${houseImg})`, backgroundSize: "cover", backgroundPosition: "center" }}
+      style={{ backgroundImage: `url(${house4})`, backgroundSize: "cover", backgroundPosition: "center" }}
       id="Header"
     >
       {/* Dark Overlay (VERY IMPORTANT for professionalism) */}

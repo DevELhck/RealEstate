@@ -1,5 +1,5 @@
 import React from "react";
-import brandImage from "../assets/house3.jpg"; // adjust path
+import house3 from "../assets/house3.jpg"; // adjust path
 
 const About = () => {
   return (
@@ -30,7 +30,7 @@ const About = () => {
         {/* Image */}
         <div className="w-full md:w-1/2">
           <img
-            src={brandImage}
+            src={house3}
             alt="Brand"
             className="w-full ` h-[400px]` object-cover rounded-2xl shadow-lg"
           />
