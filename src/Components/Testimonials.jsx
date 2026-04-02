@@ -1,8 +1,8 @@
 import React from "react";
-import User1 from "../assets/User1.png";
-import User2 from "../assets/User2.png";
-import User3 from "../assets/User3.png";
-import User4 from "../assets/User4.png";
+import User1 from "../assets/user1.png";
+import User2 from "../assets/user2.png";
+import User3 from "../assets/user3.png";
+import User4 from "../assets/user4.png";
 
 const testimonialsData = [
   {
