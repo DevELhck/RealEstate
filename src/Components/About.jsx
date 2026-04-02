@@ -1,5 +1,5 @@
 import React from "react";
-import House_3 from "../assets/house3.jpg"; // adjust path
+import House_3 from "./assets/house3.jpg"; // adjust path
 
 const About = () => {
   return (
