@@ -1,24 +1,24 @@
 import React, { useRef } from "react";
-import house1 from '../assets/house1.jpg';
-import house2 from "../assets/house2.jpg";
-import house3 from "../assets/house3.jpg";
-import house4 from "../assets/house4.jpg";
-import house5 from "../assets/house5.jpg";
-import house6 from "../assets/house6.jpg";
-import house7 from "../assets/house7.jpg";
-import house8 from "../assets/house8.jpg";
-import house9 from "../assets/house9.jpg";
+import House1 from '../assets/house1.jpg';
+import House2 from "../assets/house2.jpg";
+import House3 from "../assets/house3.jpg";
+import House4 from "../assets/house4.jpg";
+import House5 from "../assets/house5.jpg";
+import House6 from "../assets/house6.jpg";
+import House7 from "../assets/house7.jpg";
+import House8 from "../assets/house8.jpg";
+import House9 from "../assets/house9.jpg";
 
 const projectsData = [
-  { img: house1, title: "Modern Villa", price: "$500,000" },
-  { img: house2, title: "Luxury Apartment", price: "$600,000" },
-  { img: house3, title: "Family House", price: "$700,000" },
-  { img: house4, title: "Beach House", price: "$800,000" },
-  { img: house5, title: "City Loft", price: "$550,000" },
-  { img: house6, title: "Smart Home", price: "$620,000" },
-  { img: house7, title: "Penthouse", price: "$900,000" },
-  { img: house8, title: "Country House", price: "$480,000" },
-  { img: house9, title: "Suburban Home", price: "$450,000" },
+  { img: House1, title: "Modern Villa", price: "$500,000" },
+  { img: House2, title: "Luxury Apartment", price: "$600,000" },
+  { img: House3, title: "Family House", price: "$700,000" },
+  { img: House4, title: "Beach House", price: "$800,000" },
+  { img: House5, title: "City Loft", price: "$550,000" },
+  { img: House6, title: "Smart Home", price: "$620,000" },
+  { img: House7, title: "Penthouse", price: "$900,000" },
+  { img: House8, title: "Country House", price: "$480,000" },
+  { img: House9, title: "Suburban Home", price: "$450,000" },
 ];
 
 const Project = () => {

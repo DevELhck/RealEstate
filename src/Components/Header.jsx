@@ -1,13 +1,13 @@
 import React from "react";
 import Navbar from "./Navbar";
-import house4 from "../assets/house4.jpg";
+import House4 from "../assets/house4.jpg";
 
 const Header = () => {
   return (
     <div
       className="relative min-h-screen flex items-center justify-center w-full overflow-hidden"
       style={{
-        backgroundImage: `url(${house4})`,
+        backgroundImage: `url(${House4})`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
