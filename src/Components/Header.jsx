@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./Navbar";
-import House4 from "./assets/house4.jpg";
+import House4 from "./../assets/house4.jpg"; // adjust path
 
 const Header = () => {
   return (

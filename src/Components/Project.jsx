@@ -1,13 +1,13 @@
 import React, { useRef } from "react";
-import House_1 from './assets/house1.jpg';
-import House_2 from "./assets/house2.jpg";
-import House_3 from "./assets/house3.jpg";
-import House_4 from "./assets/house4.jpg";
-import House_5 from "./assets/house5.jpg";
-import House_6 from "./assets/house6.jpg";
-import House_7 from "./assets/house7.jpg";
-import House_8 from "./assets/house8.jpg";
-import House_9 from "./assets/house9.jpg";
+import House_1 from './../assets/house1.jpg';
+import House_2 from "./../assets/house2.jpg";
+import House_3 from "./../assets/house3.jpg";
+import House_4 from "./../assets/house4.jpg";
+import House_5 from "./../assets/house5.jpg";
+import House_6 from "./../assets/house6.jpg";
+import House_7 from "./../assets/house7.jpg";
+import House_8 from "./../assets/house8.jpg";
+import House_9 from "./../assets/house9.jpg";
 
 const projectsData = [
   { img: House_1, title: "Modern Villa", price: "$500,000" },
