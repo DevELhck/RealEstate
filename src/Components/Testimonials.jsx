@@ -1,27 +1,27 @@
 import React from "react";
-import user1 from "./../assets/User1.png";
-import user2 from "./../assets/User2.png";
-import user3 from "./../assets/User3.png";
-import user4 from "./../assets/User4.png";
+import User1 from "./../assets/User1.png";
+import User2 from "./../assets/User2.png";
+import User3 from "./../assets/User3.png";
+import User4 from "./../assets/User4.png";
 
 const testimonialsData = [
   {
-    img: user1,
+    img: User1,
     name: "John Doe",
     text: "Great service and amazing properties!",
   },
   {
-    img: user2,
+    img: User2,
     name: "Jane Smith",
     text: "Highly recommend for anyone looking for a new home.",
   },
   {
-    img: user3,
+    img: User3,
     name: "Emily Johnson",
     text: "Professional and attentive to our needs.",
   },
   {
-    img: user4,
+    img: User4,
     name: "Michael Brown",
     text: "Found our dream home thanks to their expertise.",
   },
