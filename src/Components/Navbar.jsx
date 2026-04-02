@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from "react";
 import menuIcon from "../assets/menu-icon.png"; // adjust path
-import crossIcon from "../assets/25.png"; // adjust path
+import crossIcon from "../assets/cross.png"; // adjust path
 
 const Navbar = () => {
     const [showMobileMenu, setShowMobileMenu] = useState(false);
