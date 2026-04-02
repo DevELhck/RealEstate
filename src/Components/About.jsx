@@ -32,7 +32,7 @@ const About = () => {
           <img
             src={brandImage}
             alt="Brand"
-            className="w-full h-[400px] object-cover rounded-2xl shadow-lg"
+            className="w-full ` h-[400px]` object-cover rounded-2xl shadow-lg"
           />
         </div>
 

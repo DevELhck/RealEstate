@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './Navbar'
-import houseImg from '../assets/House4.jpg'
+import houseImg from '../assets/house4.jpg'
 
 const Header = () => {
   return (

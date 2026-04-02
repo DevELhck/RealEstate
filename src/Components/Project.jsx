@@ -77,7 +77,8 @@ const Project = () => {
         {projectsData.map((project, index) => (
           <div
             key={index}
-            className="min-w-[280px] max-w-[280px] bg-white rounded-2xl shadow-md hover:shadow-xl transition duration-300 flex flex-col group"
+            className="`min-w-[280px] max-w-[280px]`
+             bg-white rounded-2xl shadow-md hover:shadow-xl transition duration-300 flex flex-col group"
           >
             {/* IMAGE */}
             <div className="overflow-hidden rounded-t-2xl">
@@ -89,7 +90,7 @@ const Project = () => {
             </div>
 
             {/* CONTENT */}
-            <div className="p-4 flex flex-col justify-between flex-grow">
+            <div className="p-4 flex flex-col justify-between `flex-grow`">
               <div>
                 <h2 className="text-lg font-semibold mb-1">
                   {project.title}
